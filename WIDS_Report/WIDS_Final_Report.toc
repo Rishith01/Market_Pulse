@@ -1,0 +1,8 @@
+\contentsline {section}{Contents}{2}{Doc-Start}%
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Week 0 : Introduction to time series and Python}{3}{section.2}%
+\contentsline {section}{\numberline {3}Week 1 : Sentiment Analysis on text data}{4}{section.3}%
+\contentsline {section}{\numberline {4}Week 2: Reinforcement Learning}{5}{section.4}%
+\contentsline {section}{\numberline {5}Week 3: Univariate LSTM model and its comparison with ARIMA}{7}{section.5}%
+\contentsline {section}{\numberline {6}Week 4: Final Project}{8}{section.6}%
+\contentsline {section}{\numberline {7}Conclusions}{10}{section.7}%
